@@ -1,3 +1,9 @@
+## Bootstrap-app for Laravel
+
+A base template app for your own amazing Laravel Apps!
+
+Sergi Tur Badenas: sergiturbadenas@gmail.com | http://acacha.org/sergitur | http://acacha.org
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
